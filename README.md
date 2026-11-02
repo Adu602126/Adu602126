@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO  video intro -->
-<img src="./hero.svg?v=2" alt="Hi, I'm Aditya — Frontend Shinobi" width="100%"/>
+<img src="./hero.svg?v=3" alt="Hi, I'm Aditya — Frontend Shinobi" width="100%"/>
 
 <br/><br/>
 
@@ -10,17 +10,17 @@
 <br/>
 
 <!-- 🍥 MY NINJA WAY -->
-<img src="./ninja-way.svg?v=2" alt="My ninja way  what I build" width="100%"/>
+<img src="./ninja-way.svg?v=3" alt="My ninja way  what I build" width="100%"/>
 
 <br/><br/>
 
 <!-- 🔦 JUTSU ARSENAL -->
-<img src="./jutsu-stack.svg?v=2" alt="Jutsu arsenal  my tech stack" width="100%"/>
+<img src="./jutsu-stack.svg?v=3" alt="Jutsu arsenal  my tech stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 NINJA REGISTRATION + MISSION DASHBOARD -->
-<img src="./ninja-id.svg?v=2" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
+<img src="./ninja-id.svg?v=3" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -29,18 +29,18 @@
 ## 🍥 S-Rank Missions
 
 <table>
-<tr><th>Mission</th><th>What it is</th><th>Jutsu used</th><th align="center">⭐</th></tr>
-<tr><td><a href="https://github.com/Adu602126/woman-saftey"><b>Woman Safety (SafePath)</b></a></td><td>Real-time emergency telemetry, risk scoring & omnichannel SOS beacon system</td><td><code>TypeScript</code> <code>React</code> <code>Firebase</code></td><td align="center"><b>OMEGA</b></td></tr>
-<tr><td><a href="https://github.com/Adu602126/Naruto-SageMode"><b>Naruto  Sage Mode</b></a></td><td>Awwwards-style scroll experience with a thunder-crack transformation</td><td><code>HTML</code> <code>GSAP</code></td><td align="center"><b>72</b></td></tr>
-<tr><td><a href="https://github.com/Adu602126/Zoro-King-of-hell"><b>Zoro  King of Hell</b></a></td><td>Cinematic character landing page</td><td><code>HTML</code> <code>CSS</code> <code>JS</code></td><td align="center"><b>23</b></td></tr>
-<tr><td><a href="https://github.com/Adu602126/Minato"><b>Minato</b></a></td><td>Flying Raijin speed  motion-heavy tribute build</td><td><code>JavaScript</code></td><td align="center"><b>22</b></td></tr>
-<tr><td><a href="https://github.com/Adu602126/Gojo"><b>Gojo</b></a></td><td>Infinity / Six Eyes themed interactive page</td><td><code>HTML</code> <code>CSS</code></td><td align="center"><b>21</b></td></tr>
-<tr><td><a href="https://github.com/Adu602126/One-Piece-3D-Website"><b>One Piece 3D</b></a></td><td>3D web experience on the Grand Line</td><td><code>TypeScript</code> <code>Three.js</code></td><td align="center">⚓</td></tr>
+<tr><th>Mission / Project</th><th>Mission Brief</th><th>Jutsu / Tech</th><th align="center">Threat Rank</th></tr>
+<tr><td><a href="https://github.com/Adu602126/woman-saftey"><b>woman-saftey (SafePath)</b></a></td><td>Real-time emergency telemetry, risk scoring & omnichannel SOS beacon system</td><td><code>TypeScript</code> <code>React</code> <code>Firebase</code></td><td align="center"><b>S-RANK</b></td></tr>
+<tr><td><a href="https://github.com/Adu602126/J.A.R.V.I.S"><b>J.A.R.V.I.S</b></a></td><td>Automated AI system assistant with voice-driven intelligent tasks</td><td><code>Python</code> <code>AI / ML</code></td><td align="center"><b>A-RANK</b></td></tr>
+<tr><td><a href="https://github.com/Adu602126/nexusforge-ai"><b>nexusforge-ai</b></a></td><td>Machine learning model training and intelligent prediction pipeline</td><td><code>Python</code> <code>ML</code></td><td align="center"><b>A-RANK</b></td></tr>
+<tr><td><a href="https://github.com/Adu602126/STUDENT_REPORT_CARD_SYSTEM"><b>Student Report Card System</b></a></td><td>Robust academic record management & student evaluation database</td><td><code>C++</code> <code>DBMS</code> <code>DSA</code></td><td align="center"><b>B-RANK</b></td></tr>
+<tr><td><a href="https://github.com/Adu602126/The-Riser"><b>The-Riser</b></a></td><td>Interactive personal portal & dynamic responsive web interface</td><td><code>JavaScript</code> <code>HTML</code> <code>CSS</code></td><td align="center"><b>B-RANK</b></td></tr>
+<tr><td><a href="https://github.com/Adu602126/Ben-14-site"><b>Ben-14-site</b></a></td><td>Cinematic character animation showcase with responsive interactions</td><td><code>JavaScript</code> <code>HTML</code> <code>CSS</code></td><td align="center">⭐ <b>1</b></td></tr>
 </table>
 
 <div align="center">
 
-<a href="https://github.com/Adu602126?tab=repositories"><b>→ See all 32 repositories</b></a>
+<a href="https://github.com/Adu602126?tab=repositories"><b>→ See all 16 repositories</b></a>
 
 <br/><br/>
 
@@ -55,7 +55,7 @@
 <br/><br/>
 
 <!-- 💌 JOIN THE SQUAD -->
-<img src="./connect.svg?v=2" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/Adu602126"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
 <a href="mailto:aditya06.kv@gmail.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"/></a>
