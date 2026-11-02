@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO  video intro -->
-<img src="./hero.svg?v=3" alt="Hi, I'm Aditya — Frontend Shinobi" width="100%"/>
+<img src="./hero.svg?v=4" alt="Hi, I'm Aditya — Frontend Shinobi" width="100%"/>
 
 <br/><br/>
 
@@ -10,17 +10,17 @@
 <br/>
 
 <!-- 🍥 MY NINJA WAY -->
-<img src="./ninja-way.svg?v=3" alt="My ninja way  what I build" width="100%"/>
+<img src="./ninja-way.svg?v=4" alt="My ninja way  what I build" width="100%"/>
 
 <br/><br/>
 
 <!-- 🔦 JUTSU ARSENAL -->
-<img src="./jutsu-stack.svg?v=3" alt="Jutsu arsenal  my tech stack" width="100%"/>
+<img src="./jutsu-stack.svg?v=4" alt="Jutsu arsenal  my tech stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 NINJA REGISTRATION + MISSION DASHBOARD -->
-<img src="./ninja-id.svg?v=3" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
+<img src="./ninja-id.svg?v=4" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
 
 <br/><br/>
 
