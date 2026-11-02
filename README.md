@@ -58,7 +58,7 @@
 <br/><br/>
 
 <!-- 💌 SECURE COMMS -->
-<img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
+<img src="./stark-connect.svg?v=1" alt="Let's connect" width="100%"/>
 
 <br/>
 
