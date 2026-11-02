@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO  video intro -->
-<img src="./hero.svg?v=1" alt="Hi, I'm Aditya — Frontend Shinobi" width="100%"/>
+<img src="./hero.svg?v=2" alt="Hi, I'm Aditya — Frontend Shinobi" width="100%"/>
 
 <br/><br/>
 
@@ -10,17 +10,17 @@
 <br/>
 
 <!-- 🍥 MY NINJA WAY -->
-<img src="./ninja-way.svg?v=1" alt="My ninja way  what I build" width="100%"/>
+<img src="./ninja-way.svg?v=2" alt="My ninja way  what I build" width="100%"/>
 
 <br/><br/>
 
 <!-- 🔦 JUTSU ARSENAL -->
-<img src="./jutsu-stack.svg?v=1" alt="Jutsu arsenal  my tech stack" width="100%"/>
+<img src="./jutsu-stack.svg?v=2" alt="Jutsu arsenal  my tech stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 NINJA REGISTRATION + MISSION DASHBOARD -->
-<img src="./ninja-id.svg?v=1" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
+<img src="./ninja-id.svg?v=2" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -55,7 +55,7 @@
 <br/><br/>
 
 <!-- 💌 JOIN THE SQUAD -->
-<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=2" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/Adu602126"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
 <a href="mailto:aditya06.kv@gmail.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"/></a>
