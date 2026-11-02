@@ -1,23 +1,27 @@
 <div align="center">
 
 <!-- 🎬 HERO DYNAMIC HUD BANNER -->
-<img src="./hero.svg?v=3" alt="Hi, I'm Aditya — Full Stack Developer & System Architect" width="100%"/>
+<img src="./hero.svg?v=4" alt="Hi, I'm Aditya — Full Stack Developer & System Architect" width="100%"/>
 
 <br/><br/>
 
-<!-- ⚡ AVENGERS SPRITE RUNWAY -->
-<p align="center">
-  <img src="https://media.giphy.com/media/KZwX88V228g1Jz4k24/giphy.gif" width="75" alt="Iron Man Hovering" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="60" alt="Arc Reactor Core" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/WpaVhEcp3Qo2TjwyI1/giphy.gif" width="75" alt="Doctor Doom Sprite" />
-</p>
+<!-- CHIBI DANCE SQUAD -->
+<img src="./team7-dance.gif" alt="Avengers squad dance" width="260"/>
 
 <br/>
 
 <!-- 🛡️ THE STARK PROTOCOL (WHAT I BUILD) -->
-<img src="./avengers-protocol.svg?v=3" alt="The Stark Protocol — what I build" width="100%"/>
+<img src="./avengers-protocol.svg?v=4" alt="The Stark Protocol — what I build" width="100%"/>
+
+<br/><br/>
+
+<!-- 🔦 WEAPONRY ARSENAL (TECH STACK) -->
+<img src="./stark-arsenal.svg?v=1" alt="Weaponry Arsenal — my tech stack" width="100%"/>
+
+<br/><br/>
+
+<!-- 🪪 STARK REGISTRATION + LIVE TELEMETRY (SWINGING ID CARD) -->
+<img src="./stark-id.svg?v=1" alt="Avengers registration card and live telemetry dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -38,22 +42,14 @@
 
 <br/><br/>
 
+<!-- CHARGE SPRITE -->
+<img src="./rasengan-run.gif" alt="Charge sprite" width="150"/>
+
 ### 🌃 Stark Tower Contribution City
 
 *Every commit raises another skyscraper in the Stark Grid — rebuilt automatically every day.*
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
-
-<br/><br/>
-
-<!-- BATTLE METRICS (STARK TELEMETRY) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Adu602126&show_icons=true&theme=radical&bg_color=090d16&title_color=00f0ff&icon_color=00ff88&text_color=e2e8f0&border_color=00f0ff&border_radius=14" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adu602126&theme=radical&background=090d16&stroke=00ff88&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff&sideLabels=e2e8f0&sideNums=00ff88&dates=718096&border=00ff88&border_radius=14" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adu602126&layout=compact&theme=radical&bg_color=090d16&title_color=00f0ff&text_color=e2e8f0&border_color=00ff88&border_radius=14" width="60%" />
 
 <br/><br/>
 
@@ -73,6 +69,10 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Adu602126&color=00f0ff&style=for-the-badge&label=STARK_RADAR_VISITORS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="./chibi-walk.gif" alt="Chibi character walking" width="90"/>
 
 <br/><br/>
 
