@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO DYNAMIC HUD BANNER -->
-<img src="./hero.svg?v=2" alt="Hi, I'm Aditya — Full Stack Developer & System Architect" width="100%"/>
+<img src="./hero.svg?v=3" alt="Hi, I'm Aditya — Full Stack Developer & System Architect" width="100%"/>
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 <br/>
 
 <!-- 🛡️ THE STARK PROTOCOL (WHAT I BUILD) -->
-<img src="./avengers-protocol.svg?v=2" alt="The Stark Protocol — what I build" width="100%"/>
+<img src="./avengers-protocol.svg?v=3" alt="The Stark Protocol — what I build" width="100%"/>
 
 <br/><br/>
 
@@ -58,12 +58,16 @@
 <br/><br/>
 
 <!-- 💌 SECURE COMMS -->
-<img src="./connect.svg?v=2" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/Adu602126"><img src="https://img.shields.io/badge/GitHub-00f0ff?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
+&nbsp;
+<a href="https://www.instagram.com/the_riser_007a" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+&nbsp;
 <a href="mailto:aditya06.kv@gmail.com"><img src="https://img.shields.io/badge/Email-ff2a4a?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"/></a>
+&nbsp;
 <a href="https://github.com/Adu602126"><img src="https://img.shields.io/badge/Stark_OS-00ff88?style=for-the-badge&logo=probot&logoColor=0b0d13" alt="Stark OS"/></a>
 
 <br/><br/>
