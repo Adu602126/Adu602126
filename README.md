@@ -20,7 +20,7 @@
 <br/><br/>
 
 <!-- 🪪 NINJA REGISTRATION + MISSION DASHBOARD -->
-<img src="./ninja-id.svg?v=4" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
+<img src="./ninja-id.svg?v=5" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
 
 <br/><br/>
 
