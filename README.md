@@ -5,7 +5,13 @@
 
 <br/><br/>
 
-<img src="./ironman.gif" alt="Iron Man" width="130"/>
+<p align="center">
+  <img src="./captain_america.gif" width="115" alt="Captain America" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./ironman.gif" width="115" alt="Iron Man" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./spiderman.gif" width="115" alt="Spider-Man" />
+</p>
 
 <br/>
 
