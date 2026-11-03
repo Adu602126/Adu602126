@@ -6,7 +6,7 @@
 <br/><br/>
 
 <p align="center">
-  <img src="./captain_america.gif" width="115" alt="Captain America" />
+  <img src="./black_panther.gif" width="115" alt="Black Panther" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./ironman.gif" width="115" alt="Iron Man" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
