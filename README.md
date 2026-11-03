@@ -61,7 +61,7 @@
 <br/><br/>
 
 <!-- 💌 JOIN THE SQUAD -->
-<img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=5" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/Adu602126"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
 <a href="mailto:aditya06.kv@gmail.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"/></a>
