@@ -74,7 +74,7 @@
 
 <br/>
 
-<img src="./chibi-walk.gif" alt="Chibi Naruto walking" width="90"/>
+<img src="./ironman_bottom.gif" alt="Iron Man" width="100"/>
 
 **Dattebayo  keep coding, keep growing.** 🍥
 
