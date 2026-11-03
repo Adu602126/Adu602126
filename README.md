@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<img src="./team7-dance.gif" alt="Team 7 chibi dance" width="260"/>
+<img src="./ironman.gif" alt="Iron Man" width="130"/>
 
 <br/>
 
