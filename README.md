@@ -16,7 +16,7 @@
 <br/>
 
 <!-- 🍥 MY NINJA WAY -->
-<img src="./ninja-way.svg?v=4" alt="My ninja way  what I build" width="100%"/>
+<img src="./ninja-way.svg?v=5" alt="My ninja way  what I build" width="100%"/>
 
 <br/><br/>
 
@@ -26,7 +26,7 @@
 <br/><br/>
 
 <!-- 🪪 NINJA REGISTRATION + MISSION DASHBOARD -->
-<img src="./ninja-id.svg?v=5" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
+<img src="./ninja-id.svg?v=6" alt="Ninja registration card and live GitHub dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -52,11 +52,17 @@
 
 <img src="./marvel_action.png" alt="Action Sticker" width="140"/>
 
-### 🌃 My contribution village
+### 🏙️ My Stark Tower Contributions
 
-*Every commit raises another building  rebuilt automatically every day.*
+*Every commit fortifies Stark Tower — rebuilt automatically every day.*
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+
+<br/><br/>
+
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<img src="https://raw.githubusercontent.com/Adu602126/Adu602126/output/github-snake.svg" alt="Snake animation" width="100%"/>
 
 <br/><br/>
 
@@ -76,6 +82,6 @@
 
 <img src="./ironman_bottom.gif" alt="Iron Man" width="100"/>
 
-**Dattebayo  keep coding, keep growing.** 🍥
+**Avengers Assemble — keep coding, keep building.** ⚡ 🍥
 
 </div>
