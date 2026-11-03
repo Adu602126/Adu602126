@@ -3,7 +3,12 @@
 <!-- 🎬 HERO  video intro -->
 <img src="./hero.svg?v=4" alt="Hi, I'm Aditya — Frontend Shinobi" width="100%"/>
 
-<br/><br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF7A1A&center=true&vCenter=true&random=false&width=650&lines=Avenger.+Coder.+Builder.+%F0%9F%A6%BE;C%2B%2B+%7C+Java+%7C+Python+Developer;DSA+Problem+Solver+%F0%9F%A7%A0;Machine+Learning+Enthusiast+%F0%9F%A4%96;Cybersecurity+%26+DBMS+Expert+%F0%9F%9B%A1%EF%B8%8F;Building+the+Future...+One+Commit+at+a+Time" alt="Typing SVG" />
+</p>
+
+<br/>
 
 <p align="center">
   <img src="./black_panther.gif" width="115" alt="Black Panther" />
@@ -63,6 +68,12 @@
 
 <!-- 🐍 CONTRIBUTION SNAKE -->
 <img src="https://raw.githubusercontent.com/Adu602126/Adu602126/output/github-snake.svg" alt="Snake animation" width="100%"/>
+
+<br/><br/>
+
+
+<!-- 📊 ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adu602126&theme=tokyo-night&bg_color=0b0d13&color=ff7a1a&line=c77dff&point=ff7a1a&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 
 <br/><br/>
 
