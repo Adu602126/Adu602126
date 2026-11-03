@@ -72,8 +72,27 @@
 <br/><br/>
 
 
+
+<br/>
+
+<!-- 📈 GITHUB STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adu602126&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff7a1a&icon_color=c77dff&text_color=ffffff&border_color=ff7a1a&hide_border=false&count_private=true" height="165" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adu602126&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ff7a1a&text_color=ffffff&border_color=ff7a1a&hide_border=false&langs_count=8" height="165" alt="Top Languages"/>
+</p>
+
+<br/>
+
+<!-- 🔥 STREAK STATS -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adu602126&theme=tokyonight&background=0d1117&ring=ff7a1a&fire=ff7a1a&currStreakLabel=ff7a1a&sideLabels=c77dff&dates=ffffff&hide_border=false&border=ff7a1a" alt="GitHub Streak"/>
+</p>
+
+<br/>
+
 <!-- 📊 ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adu602126&theme=tokyo-night&bg_color=0b0d13&color=ff7a1a&line=c77dff&point=ff7a1a&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adu602126&custom_title=Aditya%27s%20Contribution%20Graph&bg_color=0d1117&color=ff7a1a&line=c77dff&point=ff7a1a&area_color=c77dff&area=true&hide_border=true&theme=tokyo-night" alt="Activity Graph" width="100%"/>
 
 <br/><br/>
 
