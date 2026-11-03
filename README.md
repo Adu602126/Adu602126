@@ -50,7 +50,7 @@
 
 <br/><br/>
 
-<img src="./rasengan-run.gif" alt="Naruto running with a rasengan" width="150"/>
+<img src="./marvel_action.png" alt="Action Sticker" width="140"/>
 
 ### 🌃 My contribution village
 
